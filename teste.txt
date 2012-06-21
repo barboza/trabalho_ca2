@@ -1,0 +1,19 @@
+#cidades
+capao da canoa
+taquara
+igrejinha
+rolante
+porto alegre
+new york
+tres coroas
+gramado
+#estradas e custo
+taquara,igrejinha,12
+taquara,rolante,30
+porto alegre,taquara,80
+igrejinha,tres coroas,6
+tres coroas, gramado,20
+taquara,capao da canoa,100
+taquara, gramado,50
+#cidades que devo percorrer
+rolante;taquara;gramado
